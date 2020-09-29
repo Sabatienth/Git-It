@@ -1,2 +1,0 @@
-# Git-It
-Git-It
